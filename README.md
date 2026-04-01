@@ -3,6 +3,11 @@
 📌 Overview
 This project focuses on predicting stock prices by integrating public sentiment analysis with macroeconomic indicators such as exchange rates and inflation. Stock markets are inherently volatile, influenced by various internal and external factors. Therefore, leveraging Artificial Intelligence (AI) provides a data-driven approach to minimize risks and maximize investment opportunities.
 
+This study specifically analyzes Indonesian banking stocks, namely:
+ - Bank BCA
+ - Bank BRI
+ - Bank Mandiri
+
 🎯 Objective
 The main objective of this project is:
  - To predict stock prices using deep learning models
