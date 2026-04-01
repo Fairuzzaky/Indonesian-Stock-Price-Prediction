@@ -40,9 +40,3 @@ The following deep learning models were implemented:
  - Hybrid CNN-LSTM
 
 all models have been proven their performance in predicting a value in previous research.
-
-📈 Results
-
-All models demonstrated strong predictive performance.
-- The LSTM model achieved the best results
-- LSTM has Mean Absolute Percentage Error (MAPE) of less than 2% Indicates high accuracy in capturing stock price movements
