@@ -16,15 +16,13 @@ The main objective of this project is:
    
 📊 Dataset
 The dataset used in this project consists of:
-📈 Historical stock prices:
  - Bank BCA
  - Bank BRI
  - Bank Mandiri
-🌍 Macroeconomic indicators:
  - Inflation rate
- - Exchange rate
-💬 Public sentiment data:
+ - Currency Exchange rate
  - Social media comments from platform X related to the three banks (BRI, BCA, Mandiri)
+   
 🗓️ Time period:
  - Jan 2019 until Jan 2025
 
