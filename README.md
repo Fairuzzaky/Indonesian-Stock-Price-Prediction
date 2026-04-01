@@ -26,7 +26,7 @@ The dataset used in this project consists of:
 🗓️ Time period:
  - Jan 2019 until Jan 2025
 
-This period was specifically chosen because it represents three major economic phases:
+This period was specifically chosen because it represents three major phases:
 - Pre-pandemic 
 - Pandemic 
 - Post-pandemic
